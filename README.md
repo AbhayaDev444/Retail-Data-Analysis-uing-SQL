@@ -1,4 +1,4 @@
-# Retail-Data-Analysis-uing-SQL
+# Retail Data Analysis using SQL
 
 **Business context**:  A retail chain store wanted to analyse their Point of Sales data and get insights on customer behaviour and sales trends for improving organisational growth and profitability.
 
