@@ -10,10 +10,10 @@ Data was given in .csv format and was imported into SQL Database and performed d
 
 Multiple analyses were performed to understand customer behaviour and sales trends.
 
-       1. Sales trends at multiple granularities such as City, Product Category, Store type, Store etc  		2. Customer behaviour such as % of           returns  for different products
-       3. Distribution of sales across different gender and age categories.
-       4. High-performing and low-selling products, and stores
-       5. Top customers
-
+1. Sales trends at multiple granularities such as City, Product Category, Store type, Store etc  	
+2. Customer behaviour such as % of           returns  for different products
+3. Distribution of sales across different gender and age categories.
+4. High-performing and low-selling products, and stores
+5. Top customers
 
 Insights : 
